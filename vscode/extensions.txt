@@ -1,0 +1,14 @@
+-Auto Rename Tag
+-Bracket Pair Colorizer 2
+-CSS Flexbox Cheatsheet
+-CSS Grid Snippets
+-CSS Peek
+-GitLens — Git supercharged
+-IntelliSense for CSS class names in HTML
+-Learn Vim
+-Live Server
+-Lorem ipsum
+-Material Icon Theme
+-Plastic Slate
+-Prettier - Code formatter
+-Vim

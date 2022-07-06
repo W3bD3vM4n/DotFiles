@@ -1,0 +1,20 @@
+7zip (v:21.07) [main]
+calibre (v:5.44.0) [extras]
+dbeaver (v:22.1.1) [extras]
+dngrep (v:3.0.84.0)
+emacs (v:28.1)
+fd (8.3.2)
+gimp (v:2.10.32-1) [extras]
+innounp (v:0.50)
+libreoffice-stable (v:7.2.5) [extras]
+neovim-nightly (v:0.6.0-dev-569-g2ecf0a4c6) [main]
+notepadplusplus (v:8.4.2) [extras]
+olive-editor (v:0.1.0)
+ripgrep (v:13.0.0)
+roswell (v:21.10.14.111)
+sudo (v:0.2020.01.26) [main]
+sumatrapdf (v:3.4.6) [extras]
+tldr (v:0.6.1) [main]
+vlc (v:3.0.17.4) [extras]
+win32yank (v:0.0.4) [main]
+zeal (v:0.6.1) [extras]
