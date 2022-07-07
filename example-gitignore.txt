@@ -1,0 +1,22 @@
+#--------------------#
+#       Ignore       #
+#--------------------#
+/*
+
+#--------------------#
+#       Except       #
+#--------------------#
+!.doom.d
+.doom.d/*
+!.doom.d/init.el
+!.doom.d/packages.el
+
+!.emacs.d
+.emacs.d/*
+!.emacs.d/early-init.el
+!.emacs.d/init.el
+
+!.dotfiles
+!.gitignore
+!.vimrc
+!org
