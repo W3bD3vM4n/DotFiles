@@ -1,0 +1,26 @@
+This is the file .../info/dir, which contains the
+topmost node of the Info hierarchy, called (dir)Top.
+The first time you invoke Info you start off looking at this node.
+
+File: dir,	Node: Top	This is the top of the INFO tree
+
+  This (the Directory node) gives a menu of major topics.
+  Typing "q" exits, "H" lists all Info commands, "d" returns here,
+  "h" gives a primer for first-timers,
+  "mEmacs<Return>" visits the Emacs manual, etc.
+
+  In Emacs, you can click mouse button 2 on a menu item or cross reference
+  to select it.
+
+* Menu:
+
+* Emacs: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\emacs.info).               The extensible, self-documenting text editor.
+* Intro Elisp: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\eintr.info).             An Introduction to Programming in Emacs Lisp.
+* ELisp: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\elisp.info).          GNU Emacs Lisp Reference Manual.
+* CL-Lib: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\cl.info).            Partial Common Lisp support for Emacs Lisp.
+* Dired-X: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\dired-x.info).          Extra Dired features.
+* EDE: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\ede.info).              Package to simplify building and debugging programs.
+* EIEIO: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\eieio.info).              Common Lisp Object System library for Emacs.
+* Eshell: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\eshell.info).            Command shell implemented in Emacs Lisp.
+* Info: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\info.info).                 Documentation browsing system.
+* SLY: (sly).                   Common-Lisp IDE.
