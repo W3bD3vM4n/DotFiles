@@ -8,6 +8,7 @@ alias h4='cd /mnt/d/Temp\ \[x\]'
 
 # Commands shortcuts:
 
+alias updg='sudo apt update && sudo apt upgrade -y'
 alias ls='ls -lah --color=auto'
 alias cl='clear'
 alias mk='mkdir'
