@@ -23,4 +23,5 @@ File: dir,	Node: Top	This is the top of the INFO tree
 * EIEIO: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\eieio.info).              Common Lisp Object System library for Emacs.
 * Eshell: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\eshell.info).            Command shell implemented in Emacs Lisp.
 * Info: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\info.info).                 Documentation browsing system.
+* Org Mode: (C:\Users\hr-aw\scoop\apps\emacs\28.1\share\info\org.info).        Outline-based notes management and organizer.
 * SLY: (sly).                   Common-Lisp IDE.
