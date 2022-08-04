@@ -3,8 +3,10 @@
 alias h0='cd /home/h4ss4n'
 alias h1='cd /mnt/c/users/hr-aw'
 alias h2='cd /mnt/c/users/hr-aw/.dotfiles'
-alias h3='cd /mnt/c/users/hr-aw/.dotfiles/zsh'
-alias h4='cd /mnt/d/Temp\ \[x\]'
+alias h3='cd /mnt/c/users/hr-aw/org'
+alias h4='cd /mnt/c/users/hr-aw/source'
+alias h5='cd /mnt/c/users/hr-aw/source/repos.new/AppConsultorioMedico'
+alias h6='cd /mnt/d/Temp\ \[x\]'
 
 # Commands shortcuts:
 
