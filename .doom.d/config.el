@@ -89,5 +89,7 @@
 (add-hook 'window-setup-hook 'maximize-frame t)
 
 ;; Move files to trash can
-;; to avoid permanent deletion by Dired
 (setq delete-by-moving-to-trash t)
+
+;; SBCL (Steel Bank Common Lisp)
+;; (setq inferior-lisp-program "~/sbcl/sbcl.exe")
