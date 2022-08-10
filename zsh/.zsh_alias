@@ -11,6 +11,7 @@ alias h6='cd /mnt/d/Temp\ \[x\]'
 # Commands shortcuts:
 
 alias updg='sudo apt update && sudo apt upgrade -y'
+alias clean='sudo apt autoclean'
 alias ls='ls -lah --color=auto'
 alias cl='clear'
 alias mk='mkdir'
