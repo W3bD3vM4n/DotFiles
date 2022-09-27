@@ -49,4 +49,8 @@
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
 
+;; Evil tutor
 (package! evil-tutor)
+
+;; Keychain Environment
+(package! keychain-environment)
