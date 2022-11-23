@@ -43,6 +43,8 @@ ToggleCaps(){
 LShift & RShift::ToggleCaps()
 RShift & LShift::ToggleCaps()
 
+$Esc::  ; Disable Esc on the keyboard by assigning a non-existing key
+
 
 ; AutoHotkey manage scripts
 
