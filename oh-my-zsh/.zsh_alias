@@ -1,0 +1,73 @@
+# OH MY ZSH CUSTOM KEYS
+  # to edit the file on terminal "vim /filePath/fileName"
+  # to save changes on vim and exit ":wq"
+  # to reload the changes "source /filePath/fileName"
+
+# Home directories shortcuts:
+
+alias h1='cd ~/'
+alias h2='cd ~/.dotfiles'
+alias h3='cd ~/org'
+alias h4='cd ~/source'
+alias h5='cd ~/source/repos.new/AppConsultorioMedico'
+alias h6='cd /d/Temp\ \[x\]'
+
+# Commands shortcuts:
+
+alias upds='sudo pacman -Syu' # update the package manager
+alias ls='ls -lah --color=auto' # list directories and files in human readable way
+alias cl='clear' # clear the old commands from the terminal screen
+alias mk='mkdir' # create a folder
+alias info='info --vi-keys' # display commands information navigating with vi keys
+  # "tldr" is a shorten version of "info" command
+
+# navigation
+up () {
+ local d=""
+  local limit="$1"
+
+  # Default to limit of 1
+  if [ -z "$limit" ] || [ "$limit" -le 0 ]; then
+    limit=1
+  fi
+
+  for ((i=1;i<=limit;i++)); do
+    d="../$d"
+  done
+
+  # perform cd. Show error if cd fails
+  if ! cd "$d"; then
+    echo "Couldn't go up $limit dirs.";
+  fi
+}
+
+# Edit confirmations:
+
+alias cp='cp -i' # ask confirmation before copying
+alias mv='mv -i' # ask confirmation before moving
+alias rm='rm -i' # ask confirmation before deletion
+
+# emacs
+#alias em="/c/users/hr-aw/scoop/apps/emacs/current/bin/runemacs.exe"
+#export PATH="~/.emacs.d/bin:$PATH"
+# alias dmn='emacs --daemon'
+# alias emacs='emacsclient -c -a "emacs"'
+# alias ekill='emacsclient -e "(kill-emacs)"'
+# alias doomsync='~/.emacs.d/bin/doom\ sync'
+# alias doomdoctor='~/.emacs.d/bin/doom\ doctor'
+# alias doomupgrade='~/.emacs.d/bin/doom\ upgrade'
+# alias doompurge='~/.emacs.d/bin/doom\ purge'
+
+# Apps shortcuts:
+
+#alias ope='/c/program\ files/Opera/launcher.exe'
+#alias fox='/c/program\ files/Mozilla\ Firefox/firefox.exe'
+#alias chr='/c/program\ files/Google/Chrome/Application/chrome.exe'
+#alias suma='/c/users/hr-aw/scoop/apps/sumatrapdf/current/sumatrapdf.exe'
+#alias calc='/c/Windows/SysWOW64/calc.exe'
+#alias note='/c/users/hr-aw/scoop/apps/notepadplusplus/current/notepad++.exe'
+#alias draw='/c/Windows/SysWOW64/mspaint.exe'
+#alias gimp='/c/users/hr-aw/scoop/apps/gimp/current/bin/gimp-2.10.exe'
+#alias libr='/c/users/hr-aw/scoop/apps/libreoffice-stable/current/LibreOfficePortable.exe'
+#alias vlc='/c/users/hr-aw/scoop/apps/vlc/current/vlc.exe'
+#alias zeal='/c/users/hr-aw/scoop/apps/zeal/current/zeal.exe'
