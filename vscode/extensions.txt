@@ -1,14 +1,50 @@
--Auto Rename Tag
--Bracket Pair Colorizer 2
--CSS Flexbox Cheatsheet
--CSS Grid Snippets
--CSS Peek
--GitLens — Git supercharged
--IntelliSense for CSS class names in HTML
--Learn Vim
--Live Server
--Lorem ipsum
--Material Icon Theme
--Plastic Slate
--Prettier - Code formatter
--Vim
+* Enable
+
+  - Auto Rename Tag
+  - Bookmarks
+  - C#
+  - Code Runner
+  - CodeSwing
+  - Debugger for Firefox
+  - ESLint
+  - Git Graph
+  - IntelliSense for CSS class names in HTML
+  - JavaScript (ES6) code snippets
+  - Live Server
+  - Plastic Slate
+  - Prettier - Code formatter
+  - Remote - WSL
+  - Toggle Zen mode
+  - vscode-icons
+
+* Disable
+
+  - CodeTour
+  - GistPad
+  - Todo Tree
+  - Learn Vim
+  - NuGet Gallery
+  - Quokka.js
+  - Regex Snippets
+  - Vim
+
+* Possible
+
+  - Calva: A Clojure & ClojureScript IDE in Visual Studio Code
+  - CSS Flexbox Cheatsheet
+  - CSS Grid Snippets
+  - CSS Peek
+  - Easy LESS
+  - GitLens - Git supercharged
+  - Ionide for F#
+  - Less IntelliSense
+  - Lisp
+  - Live Sass Compiler
+  - Lorem Ipsum
+  - Markdown PDF
+  - markdownlint
+  - Material Icon Theme
+  - MySQL
+  - Paste JSON as Code
+  - SCSS Formatter
+  - Stylelint

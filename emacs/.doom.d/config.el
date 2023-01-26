@@ -21,8 +21,8 @@
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
 ;;
-(setq doom-font (font-spec :family "Consolas" :size 16 :weight 'semi-light)
-      doom-variable-pitch-font (font-spec :family "Cascadia Mono" :size 16))
+;;(setq doom-font (font-spec :family "Consolas" :size 14 :weight 'semi-light)
+;;     doom-variable-pitch-font (font-spec :family "Cascadia Mono" :size 16))
 ;;
 ;; If you or Emacs can't find your font, use 'M-x describe-font' to look them
 ;; up, `M-x eval-region' to execute elisp code, and 'M-x doom/reload-font' to
@@ -36,7 +36,7 @@
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
-(setq display-line-numbers-type t)
+(setq display-line-numbers-type 'relative)
 
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
@@ -74,3 +74,26 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+
+
+;;; CUSTOM CONFIGURATION
+
+;; Maximize Emacs on startup
+(defun maximize-frame ()
+  "Maximizes the active frame in Windows"
+  (interactive)
+  ;; Send a `WM_SYSCOMMAND' message to the active frame with the
+  ;; `SC_MAXIMIZE' parameter.
+  (when (eq system-type 'windows-nt)
+    (w32-send-sys-command 61488)))
+(add-hook 'window-setup-hook 'maximize-frame t)
+
+;; Move files to trash can
+(setq delete-by-moving-to-trash t)
+
+;; SBCL (Steel Bank Common Lisp)
+;; (setq inferior-lisp-program "~/sbcl/sbcl.exe")
+
+;; Font
+(add-to-list 'default-frame-alist
+             '(font . "Consolas-14"))
