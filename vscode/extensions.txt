@@ -1,11 +1,8 @@
 * Enable
 
   - Auto Rename Tag
-  - Bookmarks
-  - C#
-  - Code Runner
-  - CodeSwing
   - Debugger for Firefox
+  - ES7+ React/Redux/React-Native snippets
   - ESLint
   - Git Graph
   - IntelliSense for CSS class names in HTML
@@ -13,20 +10,28 @@
   - Live Server
   - Plastic Slate
   - Prettier - Code formatter
-  - Remote - WSL
-  - Toggle Zen mode
+  - Sapling
+  - Vim
+  - VSCode React Refactor
   - vscode-icons
+  - vscode-styled-components
 
-* Disable
+* Uninstall
 
+  - Bookmarks
+  - C#
+  - Code Runner
+  - CodeSwing
   - CodeTour
   - GistPad
-  - Todo Tree
+  - JSON Crack
   - Learn Vim
   - NuGet Gallery
   - Quokka.js
   - Regex Snippets
-  - Vim
+  - Todo Tree
+  - Toggle Zen mode
+  - WSL
 
 * Possible
 
