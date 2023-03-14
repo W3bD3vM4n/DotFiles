@@ -115,6 +115,7 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -163,7 +164,6 @@
   </action>
   <action id="EditorChooseLookupItem" />
   <action id="EditorChooseLookupItemDot" />
-  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
@@ -390,6 +390,7 @@
   <action id="OpenInRightSplit" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="PasteMultiple" />
   <action id="PopupHector" />
   <action id="PrevParameter" />
@@ -464,6 +465,7 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowBookmarks" />
+  <action id="ShowErrorDescription" />
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
   <action id="ShowFilterPopup" />
@@ -482,6 +484,7 @@
   <action id="ShowUsages" />
   <action id="SmartStepInto" />
   <action id="SmartTypeCompletion" />
+  <action id="SplitChooser.SplitCenter" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
