@@ -92,7 +92,6 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="f4" second-keystroke="f4" />
   </action>
-  <action id="CodeCompletion" />
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll" />
   <action id="CollapseAllRegions" />
@@ -145,6 +144,7 @@
   <action id="DomCollectionControl.Edit" />
   <action id="DomCollectionControl.Remove" />
   <action id="DumpLookupElementWeights" />
+  <action id="DumpMLCompletionFeatures" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditBreakpoint" />
@@ -469,7 +469,6 @@
   <action id="ShowExecutionPoint" />
   <action id="ShowFilePath" />
   <action id="ShowFilterPopup" />
-  <action id="ShowIntentionActions" />
   <action id="ShowNavBar" />
   <action id="ShowPopupMenu" />
   <action id="ShowReformatFileDialog">
