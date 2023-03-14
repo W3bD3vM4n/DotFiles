@@ -108,5 +108,14 @@
     "key": "alt+x",
     "command": "workbench.view.extensions",
     "when": "viewContainer.workbench.view.extensions.enabled"
+  },
+  {
+    "key": "ctrl+n n",
+    "command": "workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "ctrl+n t",
+    "command": "workbench.action.terminal.new",
+    "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
   }
 ]
