@@ -1,23 +1,41 @@
 * Enable
-
-  - Auto Rename Tag
-  - Debugger for Firefox
-  - ES7+ React/Redux/React-Native snippets
-  - ESLint
+  - bloc										[Flutter development]
+  - Code Spell Checker
+  - Dart										[Flutter development]
+  - Dart Data Class Generator					[Flutter development]
+  - dart-import									[Flutter development]
+  - Error Lens
+  - Firebase Explorer							[Flutter development]
+  - Flutter										[Flutter development]
+  - Flutter Color								[Flutter development]
   - Git Graph
+  - Json to Dart Model							[Flutter development]
+  - Material Icon Theme
+  - Plastic Slate
+  - Prettier - Code formatter
+  - Pubspec Assist								[Flutter development]
+  - Thunder Client
+  - Vim
+  - vscode-icons
+  - WakaTime
+
+
+* Disable
+  - Auto Rename Tag
+  - Angular Schematics							[Angular development]
+  - Angular Snippets (Version 13)				[Angular development]
+  - Angular-cli									[Angular development]
+  - Debugger for Firefox
+  - ES7+ React/Redux/React-Native snippets		[React development]
+  - ESLint
   - IntelliSense for CSS class names in HTML
   - JavaScript (ES6) code snippets
   - Live Server
-  - Plastic Slate
-  - Prettier - Code formatter
-  - Sapling
-  - Vim
-  - VSCode React Refactor
-  - vscode-icons
-  - vscode-styled-components
+  - Sapling										[React development]
+  - VSCode React Refactor						[React development]
+
 
 * Uninstall
-
   - Bookmarks
   - C#
   - Code Runner
@@ -33,8 +51,8 @@
   - Toggle Zen mode
   - WSL
 
-* Possible
 
+* Possible
   - Calva: A Clojure & ClojureScript IDE in Visual Studio Code
   - CSS Flexbox Cheatsheet
   - CSS Grid Snippets
@@ -48,8 +66,8 @@
   - Lorem Ipsum
   - Markdown PDF
   - markdownlint
-  - Material Icon Theme
   - MySQL
   - Paste JSON as Code
   - SCSS Formatter
   - Stylelint
+  - vscode-styled-components
