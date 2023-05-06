@@ -1,54 +1,59 @@
 * Enable
-  - bloc										[Flutter development]
+  - Awesome Flutter Snippets					[Flutter development]
   - Code Spell Checker
   - Dart										[Flutter development]
   - Dart Data Class Generator					[Flutter development]
-  - dart-import									[Flutter development]
-  - Error Lens
-  - Firebase Explorer							[Flutter development]
   - Flutter										[Flutter development]
   - Flutter Color								[Flutter development]
+  - Flutter Widget Snippets						[Flutter development]
   - Git Graph
-  - Json to Dart Model							[Flutter development]
   - Material Icon Theme
   - Plastic Slate
   - Prettier - Code formatter
   - Pubspec Assist								[Flutter development]
-  - Thunder Client
+  - Todo Tree
+  - Version Lens								[Flutter development]
   - Vim
-  - vscode-icons
   - WakaTime
 
 
 * Disable
-  - Auto Rename Tag
-  - Angular Schematics							[Angular development]
-  - Angular Snippets (Version 13)				[Angular development]
-  - Angular-cli									[Angular development]
-  - Debugger for Firefox
-  - ES7+ React/Redux/React-Native snippets		[React development]
-  - ESLint
-  - IntelliSense for CSS class names in HTML
-  - JavaScript (ES6) code snippets
-  - Live Server
-  - Sapling										[React development]
-  - VSCode React Refactor						[React development]
+
+  - bloc										[Flutter development]
+  - dart-import									[Flutter development]
+  - Error Lens
+  - Firebase Explorer							[Flutter development]
+  - flutter code select							[Flutter development]
+  - Json to Dart Model							[Flutter development]
+  - vscode-icons
 
 
 * Uninstall
+  - Angular Schematics							[Angular development]
+  - Angular Snippets (Version 13)				[Angular development]
+  - Angular-cli									[Angular development]
+  - Auto Rename Tag
   - Bookmarks
   - C#
   - Code Runner
   - CodeSwing
   - CodeTour
+  - Debugger for Firefox
+  - ESLint
+  - ES7+ React/Redux/React-Native snippets		[React development]
   - GistPad
+  - IntelliSense for CSS class names in HTML
+  - JavaScript (ES6) code snippets
   - JSON Crack
   - Learn Vim
+  - Live Server
   - NuGet Gallery
   - Quokka.js
   - Regex Snippets
-  - Todo Tree
+  - Sapling										[React development]
+  - Thunder Client
   - Toggle Zen mode
+  - VSCode React Refactor						[React development]
   - WSL
 
 
