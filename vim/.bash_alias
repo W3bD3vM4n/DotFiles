@@ -1,0 +1,22 @@
+# Home directories shortcuts:
+
+alias h0="cd /home/h4ss4n"
+alias h1="cd /mnt/c/users/hr-aw"
+alias h2="cd /mnt/c/users/hr-aw/.dotfiles"
+alias h3="cd /mnt/c/users/hr-aw/org"
+alias h4="cd /mnt/c/users/hr-aw/source"
+alias h5="cd /mnt/c/users/hr-aw/source/repos.new/AppConsultorioMedico"
+alias h6="cd /mnt/d/Temp\ \[x\]"
+
+# Commands shortcuts:
+
+alias updg="sudo apt update && sudo apt upgrade -y"
+alias clean="sudo apt autoclean"
+alias ls="ls -lah --color=auto"
+alias cl="clear"
+alias mk="mkdir"
+alias sa="tldr"
+alias info="info --vi-keys"
+alias cn="ls | wc -l"
+alias cn.="find . ! -name . -prune -print | grep -c /"
+
