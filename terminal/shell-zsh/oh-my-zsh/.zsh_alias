@@ -9,8 +9,7 @@ alias h1='cd ~/'
 alias h2='cd ~/.dotfiles'
 alias h3='cd ~/org'
 alias h4='cd ~/source'
-alias h5='cd ~/source/repos.new/AppConsultorioMedico'
-alias h6='cd /d/Temp\ \[x\]'
+alias h5='cd /d/Temp\ \[x\]'
 
 # Commands shortcuts:
 
