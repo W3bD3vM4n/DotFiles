@@ -56,12 +56,13 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
-if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;35m\][\u >\[\033[01;35m\]\W\[\033[01;35m\]] \[\033[01;35m\]\$ \[\033[00m\]'
-else
-    PS1='${debian_chroot:+($debian_chroot)}[\u >\W] \$ '
-fi
-unset color_prompt force_color_prompt
+# Custom prompt ONLY
+#if [ "$color_prompt" = yes ]; then
+#    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;35m\][\u > \[\033[01;35m\]\W\[\033[01;35m\]] \[\033[01;35m\]\$ \[\033[00m\]'
+#else
+#    PS1='${debian_chroot:+($debian_chroot)}[\u >\W] \$ '
+#fi
+#unset color_prompt force_color_prompt
 
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
@@ -118,3 +119,6 @@ fi
 
 # Vim Mode On
 set -o vi
+
+# Custom prompt with Git status
+source ~/gitstatus/gitstatus.prompt.sh
