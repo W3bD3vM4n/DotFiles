@@ -1,6 +1,6 @@
 # Home directories shortcuts:
 
-alias d0="cd /home/h4ss4n"
+alias d0="cd /"
 alias d1="cd /c/users/hr-aw"
 alias d2="cd /c/users/hr-aw/.dotfiles"
 alias d3="cd /c/users/hr-aw/org"
