@@ -1,11 +1,12 @@
 # Home directories shortcuts:
 
-alias h0="cd /home/h4ss4n"
-alias h1="cd /mnt/c/users/hr-aw"
-alias h2="cd /mnt/c/users/hr-aw/.dotfiles"
-alias h3="cd /mnt/c/users/hr-aw/org"
-alias h4="cd /mnt/c/users/hr-aw/source"
-alias h5="cd /mnt/d/Temp\ \[x\]"
+alias d0="cd /home/h4ss4n"
+alias d1="cd /c/users/hr-aw"
+alias d2="cd /c/users/hr-aw/.dotfiles"
+alias d3="cd /c/users/hr-aw/org"
+alias d4="cd /c/users/hr-aw/source"
+alias d5="cd /d/Temp\ \[x\]"
+alias d6="cd /d/OneDrive\ -\ Universidad\ Central\ del\ Ecuador/Downloads"
 
 # Commands shortcuts:
 
