@@ -120,5 +120,12 @@ fi
 # Vim Mode On
 set -o vi
 
+# Copy 'pwdp' to clipboard (this only works on Windows)
+# for Linux install 'xclip' then use the line below
+# pwd | xclip -selection clipboard
+function cpwd() {
+    pwd | tr -d '\n' | clip
+}
+
 # Custom prompt with Git status
 source ~/gitstatus/gitstatus.prompt.sh
