@@ -9,6 +9,26 @@ g.toggle_theme_icon = "   "
 g.transparency = config.ui.transparency
 
 -------------------------------------- options ------------------------------------------
+-- Windows clipboard
+-- use after install win32yank.exe
+vim.api.nvim_exec(
+	[[
+		let g:clipboard = {
+      \   'name': 'win32yank',
+      \   'copy': {
+      \      '+': 'win32yank.exe -i --crlf',
+      \      '*': 'win32yank.exe -i --crlf',
+      \    },
+      \   'paste': {
+      \      '+': 'win32yank.exe -o --lf',
+      \      '*': 'win32yank.exe -o --lf',
+      \   },
+      \   'cache_enabled': 0,
+      \ }
+	]],
+	true
+)
+
 opt.laststatus = 3 -- global statusline
 opt.showmode = false
 
