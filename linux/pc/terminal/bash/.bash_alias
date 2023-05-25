@@ -1,0 +1,29 @@
+# Home directories shortcuts:
+
+alias h0="cd /"
+alias h1="cd /home/h4ss4n"
+alias h2="cd /media/h4ss4n/WINDOWS\ OS/Users/hr-aw/.dotfiles"
+alias h3="cd /media/h4ss4n/WINDOWS\ OS/Users/hr-aw/org"
+alias h4="cd /media/h4ss4n/WINDOWS\ OS/Users/hr-aw/source"
+alias h5="cd /media/h4ss4n/DATA/Temp\ \[x\]"
+
+# Commands shortcuts:
+
+alias updg="sudo apt update && sudo apt upgrade -y"
+alias clean="sudo apt autoclean"
+alias cpwd="pwd | xclip -selection clipboard"
+alias ls="ls -lah --color=auto"
+alias cl="clear"
+alias info="info --vi-keys"
+alias cn="ls | wc -l"
+alias cn.="find . ! -name . -prune -print | grep -c /"
+
+# Edit confirmations:
+
+alias cp="cp -i" # ask confirmation before copying
+alias mv="mv -i" # ask confirmation before moving
+alias rm="rm -i" # ask confirmation before deletion
+
+# Apps shortcuts:
+
+alias vim="nvim"
