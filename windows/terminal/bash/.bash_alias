@@ -5,8 +5,8 @@ alias h1="cd /c/users/hr-aw"
 alias h2="cd /c/users/hr-aw/.dotfiles"
 alias h3="cd /c/users/hr-aw/org"
 alias h4="cd /c/users/hr-aw/source"
-alias h5="cd /d/Temp\ \[x\]"
-alias h6="cd /d/OneDrive\ -\ Universidad\ Central\ del\ Ecuador/Downloads"
+alias h5="cd /e/Temporary"
+alias h6="cd /e/OneDrive\ -\ Universidad\ Central\ del\ Ecuador/Downloads"
 
 # Commands shortcuts:
 
@@ -24,5 +24,4 @@ alias rm="rm -i" # ask confirmation before deletion
 
 # Apps shortcuts:
 
-#alias nvim="nvim-qt"
 alias vim="nvim-qt"

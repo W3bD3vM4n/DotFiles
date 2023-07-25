@@ -1,30 +1,21 @@
 * Enable
-  - Awesome Flutter Snippets					[Flutter development]
-  - Code Spell Checker
-  - Dart										[Flutter development]
-  - Dart Data Class Generator					[Flutter development]
-  - Flutter										[Flutter development]
-  - Flutter Color								[Flutter development]
-  - Flutter Widget Snippets						[Flutter development]
+  - Bearded Theme
+  - C/C++										[C development]
+  - CMake										[C development]
+  - CMake Tools									[C development]
+  - Code Runner									[C development]
   - Git Graph
+  - Go											[Golang development]
   - Material Icon Theme
   - Plastic Slate
   - Prettier - Code formatter
-  - Pubspec Assist								[Flutter development]
   - Todo Tree
-  - Version Lens								[Flutter development]
   - Vim
   - WakaTime
+  - WSL											[Golang development]
 
 
 * Disable
-
-  - bloc										[Flutter development]
-  - dart-import									[Flutter development]
-  - Error Lens
-  - Firebase Explorer							[Flutter development]
-  - flutter code select							[Flutter development]
-  - Json to Dart Model							[Flutter development]
   - vscode-icons
 
 
@@ -33,28 +24,40 @@
   - Angular Snippets (Version 13)				[Angular development]
   - Angular-cli									[Angular development]
   - Auto Rename Tag
+  - Awesome Flutter Snippets					[Flutter development]
   - Bookmarks
+  - bloc										[Flutter development]
   - C#
-  - Code Runner
+  - Code Spell Checker
   - CodeSwing
   - CodeTour
+  - Dart										[Flutter development]
+  - Dart Data Class Generator					[Flutter development]
+  - dart-import									[Flutter development]
   - Debugger for Firefox
   - ESLint
   - ES7+ React/Redux/React-Native snippets		[React development]
+  - Firebase Explorer							[Flutter development]
+  - Flutter										[Flutter development]
+  - flutter code select							[Flutter development]
+  - Flutter Color								[Flutter development]
+  - Flutter Widget Snippets						[Flutter development]
   - GistPad
   - IntelliSense for CSS class names in HTML
   - JavaScript (ES6) code snippets
   - JSON Crack
+  - Json to Dart Model							[Flutter development]
   - Learn Vim
   - Live Server
   - NuGet Gallery
+  - Pubspec Assist								[Flutter development]
   - Quokka.js
   - Regex Snippets
   - Sapling										[React development]
   - Thunder Client
   - Toggle Zen mode
   - VSCode React Refactor						[React development]
-  - WSL
+  - Version Lens								[Flutter development]
 
 
 * Possible
