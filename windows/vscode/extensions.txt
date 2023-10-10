@@ -1,22 +1,22 @@
 * Enable
   - Bearded Theme
-  - C/C++										[C development]
-  - CMake										[C development]
-  - CMake Tools									[C development]
-  - Code Runner									[C development]
+  - ESLint										[Angular/React development]
+  - ES7+ React/Redux/React-Native snippets		[React development]
   - Git Graph
-  - Go											[Golang development]
+  - JavaScript (ES6) code snippets				[Angular/React development]
+  - Live Server									[Angular/React development]
   - Material Icon Theme
+  - Microsoft Edge Tools for VS Code			[Angular/React development]
   - Plastic Slate
   - Prettier - Code formatter
+  - Sapling										[React development]
   - Todo Tree
-  - Vim
+  - VSCode React Refactor						[React development]
   - WakaTime
   - WSL											[Golang development]
 
 
 * Disable
-  - vscode-icons
 
 
 * Uninstall
@@ -28,36 +28,38 @@
   - Bookmarks
   - bloc										[Flutter development]
   - C#
+  - C/C++										[C/C++ development]
+  - clangd										[C/C++ development]
+  - CMake										[C/C++ development]
+  - CMake Tools									[C/C++ development]
+  - Code Runner									[C/C++ development]
   - Code Spell Checker
   - CodeSwing
   - CodeTour
   - Dart										[Flutter development]
   - Dart Data Class Generator					[Flutter development]
   - dart-import									[Flutter development]
-  - Debugger for Firefox
-  - ESLint
-  - ES7+ React/Redux/React-Native snippets		[React development]
+  - Debugger for Firefox						[Angular/React development]
   - Firebase Explorer							[Flutter development]
   - Flutter										[Flutter development]
   - flutter code select							[Flutter development]
   - Flutter Color								[Flutter development]
   - Flutter Widget Snippets						[Flutter development]
   - GistPad
+  - Go											[Golang development]
   - IntelliSense for CSS class names in HTML
-  - JavaScript (ES6) code snippets
   - JSON Crack
   - Json to Dart Model							[Flutter development]
   - Learn Vim
-  - Live Server
   - NuGet Gallery
   - Pubspec Assist								[Flutter development]
   - Quokka.js
   - Regex Snippets
-  - Sapling										[React development]
   - Thunder Client
   - Toggle Zen mode
-  - VSCode React Refactor						[React development]
+  - Vim
   - Version Lens								[Flutter development]
+  - vscode-icons
 
 
 * Possible
