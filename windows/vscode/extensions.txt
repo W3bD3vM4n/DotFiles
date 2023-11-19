@@ -1,83 +1,52 @@
-* Enable
+* Enable:
+  - Auto Barrel									[React development]
+  - Auto Close Tag								[HTML]
   - Bearded Theme
-  - ESLint										[Angular/React development]
+  - Code Runner									[JavaScript development]
   - ES7+ React/Redux/React-Native snippets		[React development]
+  - ESLint										[Angular/React development]
   - Git Graph
   - JavaScript (ES6) code snippets				[Angular/React development]
-  - Live Server									[Angular/React development]
   - Material Icon Theme
-  - Microsoft Edge Tools for VS Code			[Angular/React development]
+  - Path IntelliSense
   - Plastic Slate
   - Prettier - Code formatter
   - Sapling										[React development]
+  - Tailwind CSS IntelliSense
   - Todo Tree
+  - Vim
   - VSCode React Refactor						[React development]
+  - vscode-pdf
   - WakaTime
-  - WSL											[Golang development]
+  - WSL
 
 
-* Disable
-
-
-* Uninstall
+* Uninstall:
   - Angular Schematics							[Angular development]
   - Angular Snippets (Version 13)				[Angular development]
   - Angular-cli									[Angular development]
   - Auto Rename Tag
-  - Awesome Flutter Snippets					[Flutter development]
   - Bookmarks
-  - bloc										[Flutter development]
-  - C#
-  - C/C++										[C/C++ development]
-  - clangd										[C/C++ development]
-  - CMake										[C/C++ development]
-  - CMake Tools									[C/C++ development]
-  - Code Runner									[C/C++ development]
   - Code Spell Checker
   - CodeSwing
   - CodeTour
-  - Dart										[Flutter development]
-  - Dart Data Class Generator					[Flutter development]
-  - dart-import									[Flutter development]
   - Debugger for Firefox						[Angular/React development]
   - Firebase Explorer							[Flutter development]
-  - Flutter										[Flutter development]
-  - flutter code select							[Flutter development]
-  - Flutter Color								[Flutter development]
-  - Flutter Widget Snippets						[Flutter development]
   - GistPad
-  - Go											[Golang development]
-  - IntelliSense for CSS class names in HTML
   - JSON Crack
-  - Json to Dart Model							[Flutter development]
-  - Learn Vim
-  - NuGet Gallery
-  - Pubspec Assist								[Flutter development]
-  - Quokka.js
-  - Regex Snippets
+  - Microsoft Edge Tools for VS Code			[Angular/React development]
   - Thunder Client
-  - Toggle Zen mode
-  - Vim
   - Version Lens								[Flutter development]
   - vscode-icons
 
 
-* Possible
-  - Calva: A Clojure & ClojureScript IDE in Visual Studio Code
+* Possible:
   - CSS Flexbox Cheatsheet
   - CSS Grid Snippets
   - CSS Peek
-  - Easy LESS
   - GitLens - Git supercharged
-  - Ionide for F#
-  - Less IntelliSense
-  - Lisp
-  - Live Sass Compiler
-  - Lorem Ipsum
+  - Live Server									[Angular/React development]
+  - Lorem Ipsum									[HTML]
   - Markdown PDF
   - markdownlint
-  - MySQL
   - Paste JSON as Code
-  - SCSS Formatter
-  - Stylelint
-  - vscode-styled-components
