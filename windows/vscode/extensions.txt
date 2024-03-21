@@ -1,39 +1,55 @@
-* Enable:
+* Enabled:
+  - Angular Language Service					[Angular development]
+  - Angular Snippets (Version 16)				[Angular development]
+  - Angular-cli									[Angular development]  
   - Auto Barrel									[React development]
   - Auto Close Tag								[HTML]
   - Bearded Theme
-  - Code Runner									[JavaScript development]
-  - ES7+ React/Redux/React-Native snippets		[React development]
+  - Error Lens
   - ESLint										[Angular/React development]
   - Git Graph
+  - Image preview
   - JavaScript (ES6) code snippets				[Angular/React development]
   - Material Icon Theme
   - Path IntelliSense
   - Plastic Slate
   - Prettier - Code formatter
-  - Sapling										[React development]
-  - Tailwind CSS IntelliSense
-  - Todo Tree
-  - Vim
-  - VSCode React Refactor						[React development]
+  - Semicolon Insertion Shortcut				[Vim]
+  - Syntax Highlighting for yarn.lock files
+  - Vim											[Vim]
   - vscode-pdf
+  - vscode-pets
   - WakaTime
   - WSL
 
 
-* Uninstall:
-  - Angular Schematics							[Angular development]
-  - Angular Snippets (Version 13)				[Angular development]
-  - Angular-cli									[Angular development]
+* Disabled:
+  - Code Runner									[JavaScript development]
+  - GitHub Copilot								[AI]
+  - GitHub Copilot Chat							[AI]
+  - Tailwind CSS IntelliSense
+  - Todo Tree
+
+
+* Uninstalled:
+  - ChatGPT GPT-4 - Bito AI Code Assistant		[AI]
+  - CodiumAI - Integrity Agent					[AI]
+  - Code Spell Checker
+  - Excalidraw
+  - ES7+ React/Redux/React-Native snippets		[React development]
+  - JSON Crack
+  - Pretty TypeScript Errors
+  - Sapling										[React development]
+  - Tabnine: AI Autocomplete & Chat				[AI]
+  - VSCode React Refactor						[React development]
+
   - Auto Rename Tag
   - Bookmarks
-  - Code Spell Checker
   - CodeSwing
   - CodeTour
   - Debugger for Firefox						[Angular/React development]
   - Firebase Explorer							[Flutter development]
   - GistPad
-  - JSON Crack
   - Microsoft Edge Tools for VS Code			[Angular/React development]
   - Thunder Client
   - Version Lens								[Flutter development]
@@ -50,3 +66,4 @@
   - Markdown PDF
   - markdownlint
   - Paste JSON as Code
+  - RailsNotes Ruby on Rails Extension Pack		[Ruby development]
